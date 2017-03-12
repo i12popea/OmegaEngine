@@ -1,0 +1,220 @@
+// Acera
+modelo modelos/acera/acera.obj -202 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -192 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -180 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -168 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -156 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -144 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -132 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -120 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -108 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -96 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -84 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -72 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -60 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -48 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -36 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -24 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -12 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 0 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 12 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 24 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 36 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 48 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 60 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 72 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 84 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 96 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 108 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 120 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 132 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 144 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 156 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 168 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 180 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 192 -11 81 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 202 -11 81 0 0 0 0 1 1 1 box
+
+// Calle
+modelo modelos/road/road.obj -192 -11 88.5 0 0 0 0 1 1 1 box
+modelo modelos/road/road.obj -168 -11 88.5 0 0 0 0 1 1 1 box
+modelo modelos/road/road.obj -144 -11 88.5 0 0 0 0 1 1 1 box
+modelo modelos/road/road.obj -120 -11 88.5 0 0 0 0 1 1 1 box
+modelo modelos/road/road.obj -96 -11 88.5 0 0 0 0 1 1 1 box
+modelo modelos/road/road.obj -72 -11 88.5 0 0 0 0 1 1 1 box
+modelo modelos/road/road.obj -48 -11 88.5 0 0 0 0 1 1 1 box
+modelo modelos/road/road.obj -24 -11 88.5 0 0 0 0 1 1 1 box
+modelo modelos/road/road.obj 0 -11 88.5 0 0 0 0 1 1 1 box
+modelo modelos/road/road.obj 24 -11 88.5 0 0 0 0 1 1 1 box
+modelo modelos/road/road.obj 48 -11 88.5 0 0 0 0 1 1 1 box
+modelo modelos/road/road.obj 72 -11 88.5 0 0 0 0 1 1 1 box
+modelo modelos/road/road.obj 96 -11 88.5 0 0 0 0 1 1 1 box
+modelo modelos/road/road.obj 120 -11 88.5 0 0 0 0 1 1 1 box
+modelo modelos/road/road.obj 144 -11 88.5 0 0 0 0 1 1 1 box
+modelo modelos/road/road.obj 168 -11 88.5 0 0 0 0 1 1 1 box
+modelo modelos/road/road.obj 192 -11 88.5 0 0 0 0 1 1 1 box
+
+// Acera
+modelo modelos/acera/acera.obj -202 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -192 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -180 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -168 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -156 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -144 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -132 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -120 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -108 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -96 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -84 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -72 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -60 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -48 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -36 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -24 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj -12 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 0 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 12 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 24 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 36 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 48 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 60 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 72 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 84 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 96 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 108 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 120 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 132 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 144 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 156 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 168 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 180 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 192 -11 96 0 0 0 0 1 1 1 box
+modelo modelos/acera/acera.obj 202 -11 96 0 0 0 0 1 1 1 box
+
+// Valla
+modelo modelos/valla/valla1.obj -48 -8 98 90 0 1 0 1 1 1 box
+modelo modelos/valla/valla1.obj -42 -8 98 90 0 1 0 1 1 1 box
+modelo modelos/valla/valla1.obj -36 -8 98 90 0 1 0 1 1 1 box
+modelo modelos/valla/valla1.obj -30 -8 98 90 0 1 0 1 1 1 box
+modelo modelos/valla/valla1.obj -24 -8 98 90 0 1 0 1 1 1 box
+modelo modelos/valla/valla1.obj -18 -8 98 90 0 1 0 1 1 1 box
+modelo modelos/valla/valla1.obj -12 -8 98 90 0 1 0 1 1 1 box
+modelo modelos/valla/valla1.obj -6 -8 98 90 0 1 0 1 1 1 box
+modelo modelos/valla/valla1.obj 0 -8 98 90 0 1 0 1 1 1 box
+modelo modelos/valla/valla1.obj 6 -8 98 90 0 1 0 1 1 1 box
+modelo modelos/valla/valla1.obj 12 -8 98 90 0 1 0 1 1 1 box
+modelo modelos/valla/valla1.obj 18 -8 98 90 0 1 0 1 1 1 box
+modelo modelos/valla/valla1.obj 24 -8 98 90 0 1 0 1 1 1 box
+modelo modelos/valla/valla1.obj 30 -8 98 90 0 1 0 1 1 1 box
+modelo modelos/valla/valla1.obj 36 -8 98 90 0 1 0 1 1 1 box
+modelo modelos/valla/valla1.obj 42 -8 98 90 0 1 0 1 1 1 box
+modelo modelos/valla/valla1.obj 48 -8 98 90 0 1 0 1 1 1 box
+
+// Casas
+modelo modelos/casa/casa.obj -152 0 140 90 0 1 0 1 1 1 box
+modelo modelos/casa/casa.obj -102 0 140 90 0 1 0 1 1 1 box
+modelo modelos/casa/casa.obj -52 0 140 90 0 1 0 1 1 1 box
+modelo modelos/casa/casa.obj -2 0 140 90 0 1 0 1 1 1 box
+modelo modelos/casa/casa.obj 48 0 140 90 0 1 0 1 1 1 box
+modelo modelos/casa/casa.obj 98 0 140 90 0 1 0 1 1 1 box
+modelo modelos/casa/casa.obj 148 0 140 90 0 1 0 1 1 1 box
+modelo modelos/casa/casa.obj 198 0 140 90 0 1 0 1 1 1 box
+modelo modelos/casa/casa.obj 248 0 140 90 0 1 0 1 1 1 box
+
+modelo modelos/casa/casa.obj 200 0 0 270 0 1 0 1 1 1 box
+modelo modelos/casa/casa.obj 150 0 0 270 0 1 0 1 1 1 box
+modelo modelos/casa/casa.obj 100 0 0 270 0 1 0 1 1 1 box
+modelo modelos/casa/casa.obj 50 0 0 270 0 1 0 1 1 1 box
+modelo modelos/casa/casa.obj 0 0 -50 270 0 1 0 1 1 1 box
+modelo modelos/casa/casa.obj -50 0 0 270 0 1 0 1 1 1 box
+	modelo roca.obj -50 0 0 270 0 1 0 1 1 1 octree
+modelo modelos/casa/casa.obj -100 0 0 270 0 1 0 1 1 1 box
+modelo modelos/casa/casa.obj -150 0 0 270 0 1 0 1 1 1 box
+modelo modelos/casa/casa.obj -200 0 0 270 0 1 0 1 1 1 box
+
+// Cesped
+modelo modelos/cesped1/cesped1.obj 300 -10 172.5 0 0 0 0 15 1 15 box
+modelo modelos/cesped1/cesped1.obj 150 -10 172.5 0 0 0 0 15 1 15 box
+modelo modelos/cesped1/cesped1.obj 0 -10 172.5 0 0 0 0 15 1 15 box
+modelo modelos/cesped1/cesped1.obj -150 -10 172.5 0 0 0 0 15 1 15 box
+modelo modelos/cesped1/cesped1.obj -300 -10 172.5 0 0 0 0 15 1 15 box
+
+modelo modelos/cesped1/cesped1.obj 300 -10 4.5 0 0 0 0 15 1 15 box
+modelo modelos/cesped1/cesped1.obj 150 -10 4.5 0 0 0 0 15 1 15 box
+modelo modelos/cesped1/cesped1.obj 0 -10 4.5 0 0 0 0 15 1 15 box
+modelo modelos/cesped1/cesped1.obj -150 -10 4.5 0 0 0 0 15 1 15 box
+modelo modelos/cesped1/cesped1.obj -300 -10 4.5 0 0 0 0 15 1 15 box
+
+	// Suelos
+modelo modelos/suelo4.obj 0 -11 0 0 0 0 0 1 1 1 box
+modelo modelos/suelo4.obj 0 -11 -160 0 0 0 0 1 1 1 box
+
+	// Paredes exteriores
+	modelo modelos/wall1.obj 80 -3 -80 0 0 0 0 5 7 160 box
+	modelo modelos/wall1.obj -80 -3 -80 0 0 0 0 5 7 160 box
+	modelo modelos/wall2.obj 0 -3 -240 0 0 0 0 80 7 5 box
+	modelo modelos/wall2.obj 0 -3 80 0 0 0 0 80 7 5 box
+
+	// Paredes interiores
+	modelo modelos/wall2.obj -15 -3 55 0 0 0 0 65 7 5 box
+	modelo modelos/wall2.obj -72 -3 15 0 0 0 0 20 7 5 box
+	modelo modelos/wall2.obj -20 -3 15 0 0 0 0 25 7 5 box
+	modelo modelos/wall2.obj 30 -3 15 0 0 0 0 20 7 5 box
+	modelo modelos/wall1.obj -15 -3 35 0 0 0 0 5 7 20 box
+	modelo modelos/wall1.obj 49 -3 35 0 0 0 0 5 7 20 box
+	modelo modelos/wall2.obj 25 -3 -100 0 0 0 0 55 7 5 box
+	modelo modelos/wall2.obj -58 -3 -100 0 0 0 0 23 7 5 box
+	modelo modelos/wall2.obj -70 -3 -160 0 0 0 0 10 7 5 box
+	modelo modelos/wall2.obj -30 -3 -160 0 0 0 0 23 7 5 box
+	modelo modelos/wall1.obj -8 -3 -114 0 0 0 0 5 7 13 box
+	modelo modelos/wall1.obj -8 -3 -186 0 0 0 0 5 7 53 box
+	modelo modelos/wall1.obj -40 -3 -182 0 0 0 0 5 7 23 box
+	modelo modelos/wall1.obj -40 -3 -225 0 0 0 0 5 7 15 box
+	modelo modelos/wall2.obj 8 -3 -145 0 0 0 0 15 7 5 box
+	modelo modelos/wall1.obj 22 -3 -151 0 0 0 0 5 7 6 box
+	modelo modelos/wall2.obj 8 -3 -205 0 0 0 0 15 7 5 box
+	modelo modelos/wall1.obj 22 -3 -187 0 0 0 0 5 7 25 box
+	modelo modelos/wall1.obj 22 -3 -228 0 0 0 0 5 7 11 box
+
+	modelo modelos/wall4.obj 7 1.5 15 0 0 0 0 3 2.5 5 box
+	modelo modelos/wall4.obj -48 1.5 15 0 0 0 0 4 2.5 5 box
+	modelo modelos/wall4.obj -33 1.5 -100 0 0 0 0 3 2.5 5 box
+	modelo modelos/wall4.obj -56 1.5 -160 0 0 0 0 4 2.5 5 box
+	modelo modelos/wall3.obj -8 1.5 -130 0 0 0 0 5 2.5 3 box
+	modelo modelos/wall3.obj 22 1.5 -160 0 0 0 0 5 2.5 3 box
+	modelo modelos/wall3.obj 22 1.5 -215 0 0 0 0 5 2.5 3 box
+
+//Muros sotano
+	modelo modelos/wall1.obj 80 -3 -80 0 0 0 0 5 7 160 box
+	modelo modelos/wall1.obj -80 -3 -80 0 0 0 0 5 7 160 box
+	modelo modelos/wall2.obj 0 -3 -240 0 0 0 0 80 7 5 box
+	modelo modelos/wall2.obj 0 -3 80 0 0 0 0 80 7 5 box
+
+	modelo modelos/techo/techo.obj 0 0 -160 0 0 0 0 12 1 36 box
+
+
+
+
+	modelo modelos/pared_desvan1/pared_desvan1.obj 80 -3 -80 0 0 0 0 5 7 160 box
+	modelo modelos/pared_desvan1/pared_desvan1.obj -80 -3 -80 0 0 0 0 5 7 160 box
+	modelo modelos/pared_desvan2/pared_desvan2.obj 0 -3 -240 0 0 0 0 80 7 5 box
+	modelo modelos/pared_desvan2/pared_desvan2.obj 0 -3 80 0 0 0 0 80 7 5 box
+
+	cesped 0 -10 0 3 -10 3
+	cesped -75 -10 98 75 -10 250
+	cesped -75 -9.5 98 -51 -9.5 122
+
+	camara 0 -6 0
+
+	foco 1 1 1 0 0 0 0 0 0 0 50 0
+	foco 0 0 0 0 0 0 0 0 0 20 10 130
+foco -6 1 1 0.8 0.8 0.8
+	foco 0 -5.5 -25 1 1 1
+
+existeCielo true
+cielo Skybox/grimmnight_bk.tga Skybox/grimmnight_lf.tga Skybox/grimmnight_ft.tga Skybox/grimmnight_rt.tga Skybox/grimmnight_up.tga Skybox/grimmnight_dn.tga 600
+
+		sonido Sonidos/grillo1.wav true
+	sonido Sonidos/grillo2.wav true
+		localizacionSonido 0 0 0
+	localizacionSonido 0 0 0
