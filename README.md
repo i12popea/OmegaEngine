@@ -33,6 +33,6 @@ Motor gráfico para Linux y Windows usando las APIs gráficas de OpenGL, OpenAL 
 ## Instalación
 Para instalar descarga el proyecto y descomprimelo.
 En Linux introduce make en la consola
-En Windows puedes crear un proyecto en GLUT en Code Blocks y añadir las librerías de alut, FreeImage y GLEW y añadir la opción -O2 en el compilador c++ 11
+En Windows puedes crear un proyecto en GLUT en Code Blocks y añadir las librerías de alut, FreeImage y GLEW y añadir la opción -O2 en el compilador c++ 11 (aún en pruebas)
 
 Autor: Antonio Porras Pérez
